@@ -1,0 +1,33 @@
+{
+  "name": "glass-drone",
+  "version": "0.0.0",
+  "description": "Fly an AR-Drone 2.0 with Google Glass",
+  "main": "index.js",
+  "dependencies": {
+    "ar-drone": "~0.1.0",
+    "ws": "~0.4.27"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/phated/glass-drone"
+  },
+  "keywords": [
+    "nodecopter",
+    "drone",
+    "glass",
+    "websocket",
+    "socket",
+    "ar-drone",
+    "google",
+    "glass"
+  ],
+  "author": "Blaine Bublitz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phated/glass-drone/issues"
+  }
+}
